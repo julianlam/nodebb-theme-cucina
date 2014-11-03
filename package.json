@@ -1,6 +1,6 @@
 {
   "name": "nodebb-theme-cucina",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "First (and hopefully not only) in a series of inspirational themes",
   "main": "theme.less",
   "repository": {
@@ -15,10 +15,10 @@
     "email": "julian@nodebb.org"
   },
   "keywords": [
-  	"nodebb",
-  	"theme",
-  	"cucina",
-  	"bootstrap"
+    "nodebb",
+    "theme",
+    "cucina",
+    "bootstrap"
   ],
   "license": "MIT"
 }
