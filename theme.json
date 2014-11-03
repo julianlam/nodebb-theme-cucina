@@ -1,6 +1,6 @@
 {
-    "id": "nodebb-theme-quickstart",
-    "name": "My Theme Name",
-    "description": "Enter a description here",
-    "url": "https://github.com/designcreateplay/nodebb-theme-quickstart"
+    "id": "nodebb-theme-cucina",
+    "name": "Cucina",
+    "description": "First (and hopefully not only) in a series of inspirational themes",
+    "url": "https://github.com/designcreateplay/nodebb-theme-cucina"
 }

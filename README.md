@@ -1,8 +1,10 @@
-# Quickstart Theme for NodeBB
+# Cucina 
 
-This repository contains all of the preparatory work for a theme based off of the vanilla base theme.
+This is an inspirational theme meant for others to fork and modify. It is a fullly-usable theme as well, if you really like what you see :)
 
-Fork it to create your own theme based off of it!
+### Credits
+
+* Image background credit -- [Todd Quackenbush](https://unsplash.com/toddquackenbush), https://unsplash.com/photos/x5SRhkFajrA 
 
 ### Some things to change
 

@@ -1,0 +1,63 @@
+.cucina-list {
+	list-style-type: none;
+	padding-left: 0;
+
+	h2 {
+		font-family: @font-title-script;
+		margin-bottom: 0;
+	}
+
+	p {
+		font-size: 1.0em;
+		margin-bottom: 0;
+	}
+
+	li {
+		position: relative;
+		padding-bottom: 1em;
+		left: 0;
+
+		&.horiz-highlight {
+			-webkit-transition: left 100ms ease;
+			-moz-transition: left 100ms ease;
+			-ms-transition: left 100ms ease;
+			-o-transition: left 100ms ease;
+			transition: left 100ms ease;
+
+			&:hover {
+				left: 1em;
+			}
+		}
+
+		a {
+			color: rgba(255, 255, 255, 0.5);
+			-webkit-transition: color 100ms ease-in;
+			-moz-transition: color 100ms ease-in;
+			-ms-transition: color 100ms ease-in;
+			-o-transition: color 100ms ease-in;
+			transition: color 100ms ease-in;
+		}
+
+		ul {
+			padding-left: 2em;
+
+			li {
+				list-style-type: none;
+				display: inline-block;
+				font-size: 1.7rem;
+				font-style: italic;
+				font-variant: small-caps;
+
+				&+li:before {
+					content: ' | ';
+				}
+			}
+		}
+
+		&:hover {
+			a {
+				color: rgba(255, 255, 255, 0.8);
+			}
+		}
+	}
+}

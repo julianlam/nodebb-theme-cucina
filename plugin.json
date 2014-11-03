@@ -1,5 +1,5 @@
 {
-	"id": "nodebb-theme-quickstart",
+	"id": "nodebb-theme-cucina",
 	"library": "./lib/theme.js",
 	"hooks": [
 		{
@@ -8,5 +8,9 @@
 	],
 	"scripts": [
 		"lib/client.js"
-	]
+	],
+	"staticDirs": {
+		"assets": "assets"
+	},
+	"templates": "templates"
 }

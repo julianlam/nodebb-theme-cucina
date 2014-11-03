@@ -1,10 +1,24 @@
 {
-  "name": "nodebb-theme-quickstart",
+  "name": "nodebb-theme-cucina",
   "version": "0.0.0",
-  "description": "Enter a description here",
+  "description": "First (and hopefully not only) in a series of inspirational themes",
   "main": "theme.less",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/julianlam/nodebb-theme-cucina"
+  },
+  "bugs": {
+    "url": "https://github.com/julianlam/nodebb-theme-cucina/issues"
+  },
+  "author": {
+    "name": "Julian Lam",
+    "email": "julian@nodebb.org"
+  },
   "keywords": [
-
+  	"nodebb",
+  	"theme",
+  	"cucina",
+  	"bootstrap"
   ],
   "license": "MIT"
 }
