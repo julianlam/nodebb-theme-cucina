@@ -2,5 +2,6 @@
     "id": "nodebb-theme-cucina",
     "name": "Cucina",
     "description": "First (and hopefully not only) in a series of inspirational themes",
-    "url": "https://github.com/designcreateplay/nodebb-theme-cucina"
+    "url": "https://github.com/designcreateplay/nodebb-theme-cucina",
+    "screenshot": "screenshots/1.png"
 }
